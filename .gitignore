@@ -1,2 +1,5 @@
 venv
 test
+dist
+build
+main.spec
